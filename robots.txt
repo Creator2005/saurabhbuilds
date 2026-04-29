@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Allow: /services
+Allow: /contact
+
+Sitemap: https://saurabhbulids.tech/sitemap.xml
